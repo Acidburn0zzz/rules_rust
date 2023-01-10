@@ -5,4 +5,4 @@ authors = ["Daniel Wagner-Hall <dwagnerhall@apple.com>"]
 edition = "2018"
 
 [dependencies]
-bzip2 = "0.3.3"
+bzip2 = "0.4.4"
