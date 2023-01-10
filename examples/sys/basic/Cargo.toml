@@ -7,7 +7,7 @@ name = "rules_rust_examples_basic_sys"
 path = "src/main.rs"
 
 [dependencies]
-bzip2 = "=0.3.3"
+bzip2 = "=0.4.4"
 
 [package.metadata.raze]
 workspace_path = "//sys/basic/raze"
