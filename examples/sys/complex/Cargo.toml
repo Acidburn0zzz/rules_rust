@@ -7,7 +7,7 @@ name = "rules_rust_examples_complex_sys"
 path = "src/main.rs"
 
 [dependencies]
-git2 = "=0.13.12"
+git2 = "=0.16.1"
 openssl = "=0.10.32"
 openssl-sys = "=0.9.60"
 
